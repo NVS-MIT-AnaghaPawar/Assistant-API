@@ -18,10 +18,10 @@ Before running the application, make sure you have the following installed:
 
 ## Setup
 1. Clone the repository:
-git clone https://github.com/your-username/hirademy-assistant-api.git
+git clone https://github.com/NVS-MIT-AnaghaPawar/Hirademy-Assistant-API.git
 
 2. Navigate to the project directory:
-cd hirademy-assistant-api
+cd Hirademy-Assistant-API
 
 3. Update the application properties:
 Open src/main/resources/application.properties.
@@ -31,7 +31,7 @@ Update the database connection properties according to your MySQL setup.
 mvn clean install
 
 5. Run the application:
-java -jar target/hirademy-assistant-api-0.0.1-SNAPSHOT.jar
+java -jar target/Hirademy-Assistant-API-0.0.1-SNAPSHOT.jar
 The application should now be running on http://localhost:8082.
 
 ## API Endpoints
