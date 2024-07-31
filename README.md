@@ -1,4 +1,4 @@
-# Hirademy-Assistant-API
+# Assistant-API
 This is simple springboot application with CRUD APIs for managing assistants using JAVA and MySql.
 
 ## Prerequisites
